@@ -1,5 +1,6 @@
 public with sharing class test2 {
-    int c;
+    int SIRI;
+    
     public test2() {
 
     }
